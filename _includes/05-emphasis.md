@@ -1,1 +1,3 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+**Awesome Skills and Attributes: C++, PHP, JavaScript, jQuery, SQL, Pythonl**
+
+_Other Awesome Skill: Bilingual English/Spanish_
